@@ -1,6 +1,6 @@
 # Coffee Time
 
-![Coffee (0-00-02-51)](https://user-images.githubusercontent.com/3405072/93493171-846a5280-f903-11ea-9319-0640dc25c111.png)
+![Coffee (0-00-02-51)](https://user-images.githubusercontent.com/3405072/93495121-aebd0f80-f905-11ea-91db-cfd5d5f36dc2.png)
 
 ---
 
