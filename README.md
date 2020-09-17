@@ -18,7 +18,7 @@ _on mobile devices, drag the AR content to rotate it - pinch and zoom it to scal
 ---
 
 ## The AR Content
-The cup of coffee is a modified <a href="https://poly.google.com/" target="">**Google Poly**</a> model.
+The cup of coffee is a modified <a href="https://poly.google.com/view/1HpVP5w2x1D" target="">**Google Poly**</a> model.
 <br><br>
 
 ---
