@@ -8,7 +8,7 @@ Another marker-based WebAR test created using <a href="https://github.com/AR-js-
 <br><br>
 - <a href="https://franbrennan.github.io/coffeetime" target="">**Live Demo ☕**</a>
 
-- Live demo marker image (print out, then scan the QR code and point your device camera at the marker image) 
+- Live demo marker image (print out and point your device camera at the marker image) 
 
 ![marker](https://raw.githubusercontent.com/franbrennan/coffeetime/master/marker.png)
 
