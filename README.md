@@ -29,8 +29,8 @@ The cup of coffee is a modified <a href="https://poly.google.com/" target="">**G
 <br><br>
 
 If you were interested in seeing **Coffee Time** you may also like to check out<br><br>
-<a href="https://github.com/franbrennan/dinotakesatrip" target="">**Dino Takes A Trip**</a><br> 
-<a href="https://github.com/franbrennan/thisiswaytoomuchfun" target="">**This AR Lark Is Way Too Much Fun**</a>
+- <a href="https://github.com/franbrennan/dinotakesatrip" target="">**Dino Takes A Trip**</a><br> 
+- <a href="https://github.com/franbrennan/thisiswaytoomuchfun" target="">**This AR Lark Is Way Too Much Fun**</a>
 
 ---
 
